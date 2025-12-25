@@ -9,6 +9,8 @@
     brand: "LogiTech",
     rating: 4.4
   },
+
+  // Additional sample products
   {
     product_id: "P002",
     name: "USB Keyboard",
